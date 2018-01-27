@@ -1,0 +1,54 @@
+/* General base type */
+
+.general {
+    font-family: 'Lily Script One', cursive;
+    font-size: 1.5rem;
+}
+
+.calm {
+    /* round and thin (calm, tame, soft) */
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3rem;
+    top: 8rem;
+    left: 13rem;
+}
+
+.stable {
+    font-family: 'Bungee', cursive;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+}
+
+/* specifics/sections */
+
+.a {
+    top: 8rem;
+    left: 13rem;
+}
+
+.a2 {
+    top: 10rem;
+    left: 24rem;
+}
+
+.tumtum {
+    font-size: 8rem;
+    right: 2.5rem;
+    top: 7rem;
+}
+
+.tree {
+    font-size: 8rem;
+    left: 5.5rem;
+    top: 11rem;
+}
+
+.b {
+    top: 15rem;
+    left: 20rem;
+}
+
+.c {
+    top: 17rem;
+    left: 20rem;
+}
