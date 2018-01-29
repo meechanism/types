@@ -1,0 +1,59 @@
+/* General base type */
+
+.general {
+    font-size: 2rem;
+    /* font-family: 'Allan', cursive; */
+    /* font-family: 'Cherry Swash', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.calm {
+    font-family: 'Courgette', cursive;
+    font-size: 4.5rem;
+    top: 5rem;
+    left: 8rem;
+}
+
+.stable {
+    font-family: 'Contrail One', cursive;
+    font-size: 2.5rem;
+}
+
+
+.tree {
+    font-size: 9rem;
+    font-family: 'Abril Fatface', cursive;
+}
+
+/* specifics */
+
+.tumtum {
+    top: 5rem;
+    left: 1rem;
+}
+
+.tree-copy {
+    top: 10rem;
+    left: 2.7rem;
+    font-size: 9rem;
+}
+
+.a {
+    top: 6.5rem;
+    left: 6rem;
+}
+
+.a2 {
+    top: 8rem;
+    left: 23rem;
+}
+
+.b {
+    top: 15rem;
+    left: 21rem;
+}
+
+.c {
+    top: 17rem;
+    left: 21rem;
+}

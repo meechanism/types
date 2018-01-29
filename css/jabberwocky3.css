@@ -9,8 +9,8 @@
     /* round and thin (calm, tame, soft) */
     font-family: 'Quicksand', sans-serif;
     font-size: 3rem;
-    top: 8rem;
-    left: 13rem;
+    /* top: 8rem; */
+    /* left: 13rem; */
 }
 
 .stable {
@@ -22,8 +22,8 @@
 /* specifics/sections */
 
 .a {
-    top: 8rem;
-    left: 13rem;
+    top: 3rem;
+    left: 1rem;
 }
 
 .a2 {
@@ -32,25 +32,28 @@
 }
 
 .tumtum {
-    font-size: 8rem;
-    right: 2.5rem;
-    top: 7rem;
+    font-size: 6rem;
+    left: 2rem;
+    top: 5rem;
+    font-family: Fairies;
 }
 
 .tree {
-    font-size: 8rem;
-    left: 5.5rem;
-    top: 11rem;
+    font-size: 6rem;
+    left: 14.5rem;
+    top: 12rem;
+    font-family: Fairies;
+    line-height: 4rem;
 }
 
 .b {
-    top: 15rem;
-    left: 20rem;
+    top: 11rem;
+    left: 18rem;
 }
 
 .c {
-    top: 17rem;
-    left: 20rem;
+    top: 13rem;
+    left: 27rem;
 }
 
 .imagine {

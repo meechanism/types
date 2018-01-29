@@ -1,7 +1,6 @@
 /* styles for jabberwocky */
 body {
     background: grey;
-    font-size: 12px;
 }
 
 /*
@@ -24,4 +23,16 @@ body {
 
 .text  {
     position: absolute;
+}
+
+
+/* defined fonts */
+@font-face {
+    font-family: Fairies;
+    src: url('./Fairies.otf');
+}
+
+@font-face {
+    font-family: Spiral;
+    src: url('./spiral.TTF');
 }
